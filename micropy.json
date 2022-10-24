@@ -1,0 +1,17 @@
+{
+    "name": "smart-curtain",
+    "stubs": {
+        "esp32-micropython-1.15.0": "1.3.9"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {
+        "pycopy-ulogging": "*",
+        "aioble": "*"
+    },
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        ".micropy/BradenM-micropy-stubs-ebac1d3/frozen",
+        ".micropy/BradenM-micropy-stubs-4f5a52a/frozen",
+        ".micropy/BradenM-micropy-stubs-ebac1d3/stubs",
+        ".micropy/smart-curtain",
+        ".venv/lib/python3.8/site-packages"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.extraPaths": [
+        "src/lib",
+        ".micropy/BradenM-micropy-stubs-ebac1d3/frozen",
+        ".micropy/BradenM-micropy-stubs-4f5a52a/frozen",
+        ".micropy/BradenM-micropy-stubs-ebac1d3/stubs",
+        ".micropy/smart-curtain",
+        ".venv/lib/python3.8/site-packages"
+    ],
+    "python.jediEnabled": false,
+    "python.autoComplete.typeshedPaths": [
+        ".micropy/BradenM-micropy-stubs-ebac1d3/frozen",
+        ".micropy/BradenM-micropy-stubs-4f5a52a/frozen",
+        ".micropy/BradenM-micropy-stubs-ebac1d3/stubs",
+        ".micropy/smart-curtain",
+        ".venv/lib/python3.8/site-packages"
+    ],
+    "python.analysis.typeshedPaths": [
+        ".micropy/BradenM-micropy-stubs-ebac1d3/frozen",
+        ".micropy/BradenM-micropy-stubs-4f5a52a/frozen",
+        ".micropy/BradenM-micropy-stubs-ebac1d3/stubs",
+        ".micropy/smart-curtain",
+        ".venv/lib/python3.8/site-packages"
+    ]
+}
